@@ -6,8 +6,8 @@
 //			Allows for the initalisationa and use of a 4D vector (X,Y,Z,W)
 ////////////////////////////////////////////////////////////
 ///Includes///
-#include "Vector4.h"
-#include "Utilities.h"
+#include "../include/Vector4.h"
+#include "../include/Utilities.h"
 ///Includes END///
 
 

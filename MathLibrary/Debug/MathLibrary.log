@@ -1,0 +1,30 @@
+﻿  Matrix3.cpp
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\include\Utilities.h(30,2): warning C4091: 'static ': ignored on left of 'Utilities' when no variable is declared
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(153,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(154,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(171,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(172,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(189,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(190,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(207,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Matrix3.cpp(208,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Utilities.cpp
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\include\Utilities.h(30,2): warning C4091: 'static ': ignored on left of 'Utilities' when no variable is declared
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(25,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(64,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(69,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(69,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(77,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(82,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(82,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(89,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(90,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\source\Utilities.cpp(95,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Vector2.cpp
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\include\Utilities.h(30,2): warning C4091: 'static ': ignored on left of 'Utilities' when no variable is declared
+  Vector3.cpp
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\include\Utilities.h(30,2): warning C4091: 'static ': ignored on left of 'Utilities' when no variable is declared
+  Vector4.cpp
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\include\Utilities.h(30,2): warning C4091: 'static ': ignored on left of 'Utilities' when no variable is declared
+  Generating Code...
+  MathLibrary.vcxproj -> C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\Debug\MathLibrary.lib

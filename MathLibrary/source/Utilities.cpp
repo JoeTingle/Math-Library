@@ -5,8 +5,9 @@
 // Brief: Math Library: Utilities Class for custom math methods
 //			such as square root etc. instead of using std math library
 ////////////////////////////////////////////////////////////
-#include "Utilities.h"
+#include "../include/Utilities.h"
 #include <iostream>
+
 
 
 Utilities::Utilities()

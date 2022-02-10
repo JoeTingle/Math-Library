@@ -6,8 +6,8 @@
 //			Allows for the initalisationa and use of a 2D vector (X,Y)
 ////////////////////////////////////////////////////////////
 ///Includes///
-#include "Vector2.h"
-#include "Utilities.h"
+#include "../include/Vector2.h"
+#include "../include/Utilities.h"
 ///Includes END///
 
 float Vector2::SquaredDistance(Vector2 &a_oVectorA, Vector2 &a_oVectorB)

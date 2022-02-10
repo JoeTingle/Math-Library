@@ -7,8 +7,8 @@
 //			with function for localcoords/dot/normalised etc.
 ////////////////////////////////////////////////////////////
 ///Includes///
-#include "Vector3.h"
-#include "Utilities.h"
+#include "../include/Vector3.h"
+#include "../include/Utilities.h"
 ///Includes END///
 Vector3 Vector3::Normalised(Vector3 &a_oVector)
 {

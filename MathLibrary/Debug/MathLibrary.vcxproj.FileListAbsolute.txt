@@ -1,0 +1,2 @@
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\Debug\MathLibrary.lib
+C:\Users\Joe Tingle\Downloads\Math-Library-master\Math-Library-master\MathLibrary\Debug\MathLibrary.pdb

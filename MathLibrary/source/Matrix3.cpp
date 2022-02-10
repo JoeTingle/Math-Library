@@ -6,10 +6,11 @@
 //			a 3x3 matrix with float values and utlise it.
 //			has functions for inverting/rotating/determinant etc.
 ////////////////////////////////////////////////////////////
-///Includes///
-#include "Matrix3.h"
-#include "Vector3.h"
-#include "Utilities.h"
+///Includes
+#include "../include/Matrix3.h"
+#include "../include/Vector3.h"
+#include "../include/Utilities.h"
+
 ///Includes END///
 void Matrix3::SetMatrix3(Vector3 &a, Vector3 &b, Vector3 &c)
 {
